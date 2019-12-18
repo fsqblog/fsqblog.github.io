@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.fengsq.com/"/>
+  <link href="https://blog.fengsq.com/"/>
   <updated>2019-12-16T05:42:50.571Z</updated>
-  <id>http://blog.fengsq.com/</id>
+  <id>https://blog.fengsq.com/</id>
   
   <author>
     <name>FengShiqian</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>一次让你搞懂Android应用签名</title>
-    <link href="http://blog.fengsq.com/post/ApkSignature.html"/>
-    <id>http://blog.fengsq.com/post/ApkSignature.html</id>
+    <link href="https://blog.fengsq.com/post/ApkSignature.html"/>
+    <id>https://blog.fengsq.com/post/ApkSignature.html</id>
     <published>2019-12-11T02:05:32.000Z</published>
     <updated>2019-12-16T05:42:50.571Z</updated>
     
@@ -32,19 +32,19 @@
     </summary>
     
     
-      <category term="Android" scheme="http://blog.fengsq.com/categories/Android/"/>
+      <category term="Android" scheme="https://blog.fengsq.com/categories/Android/"/>
     
     
-      <category term="Android" scheme="http://blog.fengsq.com/tags/Android/"/>
+      <category term="Android" scheme="https://blog.fengsq.com/tags/Android/"/>
     
-      <category term="签名" scheme="http://blog.fengsq.com/tags/%E7%AD%BE%E5%90%8D/"/>
+      <category term="签名" scheme="https://blog.fengsq.com/tags/%E7%AD%BE%E5%90%8D/"/>
     
   </entry>
   
   <entry>
     <title>DataBinding</title>
-    <link href="http://blog.fengsq.com/post/DataBinding.html"/>
-    <id>http://blog.fengsq.com/post/DataBinding.html</id>
+    <link href="https://blog.fengsq.com/post/DataBinding.html"/>
+    <id>https://blog.fengsq.com/post/DataBinding.html</id>
     <published>2016-04-19T08:47:32.000Z</published>
     <updated>2019-12-13T10:10:51.532Z</updated>
     
@@ -57,14 +57,14 @@
     </summary>
     
     
-      <category term="Android" scheme="http://blog.fengsq.com/categories/Android/"/>
+      <category term="Android" scheme="https://blog.fengsq.com/categories/Android/"/>
     
     
-      <category term="Android" scheme="http://blog.fengsq.com/tags/Android/"/>
+      <category term="Android" scheme="https://blog.fengsq.com/tags/Android/"/>
     
-      <category term="MVVM" scheme="http://blog.fengsq.com/tags/MVVM/"/>
+      <category term="MVVM" scheme="https://blog.fengsq.com/tags/MVVM/"/>
     
-      <category term="Binding" scheme="http://blog.fengsq.com/tags/Binding/"/>
+      <category term="Binding" scheme="https://blog.fengsq.com/tags/Binding/"/>
     
   </entry>
   
